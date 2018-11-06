@@ -1,0 +1,7 @@
+Configuration management 
+and change management are two closely related but different terms. 
+Configuration management deals with the state of any given infrastructure or 
+software system at any given time. Change management, in contrast, deals with how changes 
+are made to those configurations. Think of it this way: configuration management is the configuration at any 
+given time, and change management is the process for proposing, reviewing, implementing, and potentially rolling 
+back changes to those configurations.
